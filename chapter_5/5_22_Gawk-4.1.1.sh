@@ -5,7 +5,7 @@ set -e
 cd /tmp/build
 
 tar -xvf /mnt/lfs/sources/gawk-4.1.1.tar.xz
-cd /tmp/build/gawk-4.1.1.tar.xz
+cd /tmp/build/gawk-4.1.1
 
 ./configure --prefix=/tools
 
