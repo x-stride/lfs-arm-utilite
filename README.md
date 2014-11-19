@@ -9,7 +9,7 @@ Target is for the Utilite Pro from CompuLab, http://www.compulab.co.il/utilite-c
 With minor tweaks it will probably work on other ARM devices too.
 
 
-There are some additional downloads needed in chanpter 4 in the book, other than that the scripts start off from chapter 5.
+There are some additional downloads needed in chapter 4 in the book, other than that the scripts start off from chapter 5.
 
 
 
