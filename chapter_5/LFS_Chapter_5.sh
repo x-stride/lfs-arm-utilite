@@ -19,6 +19,15 @@ set -e
 ./5_14_Check-0.9.14.sh
 ./5_15_Ncurses-5.9.sh
 ./5_16_Bash-4.3.sh
+./5_17_Bzip2-1.0.6.sh
+./5_18_Coreutils-8.23.sh
+./5_19_Diffutils-3.3.sh
+./5_20_File-5.19.sh
+./5_21_Findutils-4.4.2.sh
+./5_22_Gawk-4.1.1.sh
+./5_23_Gettext-0.19.2.sh
+./5_24_Grep-2.20.sh
+./5_25_Gzip-1.6.sh
 
 #More to come...
 
