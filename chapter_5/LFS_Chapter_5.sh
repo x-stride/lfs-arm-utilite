@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Make script abort on any errors, you'll find this in the other scripts too
 set -e
 
 #Initial toolchain
@@ -17,4 +19,6 @@ set -e
 ./5_14_Check-0.9.14.sh
 ./5_15_Ncurses-5.9.sh
 ./5_16_Bash-4.3.sh
+
+#More to come...
 
