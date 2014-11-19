@@ -28,6 +28,16 @@ set -e
 ./5_23_Gettext-0.19.2.sh
 ./5_24_Grep-2.20.sh
 ./5_25_Gzip-1.6.sh
+./5_26_M4-1.4.17.sh
+./5_27_Make-4.0.sh
+./5_28_Patch-2.7.1.sh
+./5_29_Perl-5.20.0.sh
+./5_30_Sed-4.2.2.sh
+./5_31_Tar-1.28.sh
+./5_32_Texinfo-5.2.sh
+./5_33_Util-linux-2.25.1.sh
+./5_34_Xz-5.0.5.sh
+./5_35_Stripping.sh
+./5_36_Changing_Ownership.sh
 
-#More to come...
-
+echo "Chapter 5 done, have fun!"
