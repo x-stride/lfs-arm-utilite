@@ -1,4 +1,4 @@
-*Scripted Linux from Scratch, v 7.6-systemd*
+#Scripted Linux from Scratch, v 7.6-systemd
 
 Linux from Scratch is a "book" describing how you can build your own Linux installation. http://www.linuxfromscratch.org/lfs/view/7.6-systemd/
 If you, like me, is a bit of a noob, and also don't have a lot of time to spend these scripts might work for you.
@@ -15,6 +15,7 @@ There are some additional downloads needed in chanpter 4 in the book, other than
 
 Build environment of user lfs, set in .bashrc:
 
+````
 LFS=/mnt/lfs
 LC_ALL=POSIX
 LFS_TGT=$(uname -m)-hf-linux-gnueabihf
@@ -29,5 +30,6 @@ unset CXXFLAGS
 
 PATH=/tools/bin:/bin:/usr/bin
 export LFS LC_ALL LFS_TGT MAKEFLAGS PATH GCC_HF
+```
 
 
