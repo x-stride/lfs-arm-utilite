@@ -7,7 +7,7 @@ If you, like me, is a bit of a noob, and also don't have a lot of time to spend 
 
 And yes, I needed to rerun the steps as I got them wrong, or they needed some ARM patching. And... I needed to leave them running while having some *real life*
 
-I'm doing this on my own CompuLab Utilite Pro, http://www.compulab.co.il/utilite-computer/web/utilite-models
+I'm doing this on my Utilite Pro from CompuLab, http://www.compulab.co.il/utilite-computer/web/utilite-models
 With minor tweaks it will probably work on other ARM devices too.
 
 
