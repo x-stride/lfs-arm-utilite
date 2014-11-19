@@ -2,12 +2,10 @@
 
 Linux from Scratch is a "book" describing how you can build your own Linux installation. http://www.linuxfromscratch.org/lfs/view/7.6-systemd/
 
-If you, like me, is a bit of a noob, and also don't have a lot of time to spend - these scripts might work for you.
+I needed to rerun the steps as I got them wrong, or they needed some ARM patching - hence the script approach.
+Also, some *real life* is nice to have while they're busy running :)
 
-
-And yes, I needed to rerun the steps as I got them wrong, or they needed some ARM patching. And... I needed to leave them running while having some *real life*
-
-I'm doing this on my Utilite Pro from CompuLab, http://www.compulab.co.il/utilite-computer/web/utilite-models
+Target is for the Utilite Pro from CompuLab, http://www.compulab.co.il/utilite-computer/web/utilite-models
 With minor tweaks it will probably work on other ARM devices too.
 
 
