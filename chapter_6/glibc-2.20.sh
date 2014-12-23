@@ -82,7 +82,7 @@ EOF
 
 cd ../glibc-2.20
 echo "Making a weird tar file of tzdata"
-tar -xf ../tzdata2014g.tar.gz
+tar -xf /sources/tzdata2014g.tar.gz
 
 echo "Setting zoneinfo"
 ZONEINFO=/usr/share/zoneinfo
